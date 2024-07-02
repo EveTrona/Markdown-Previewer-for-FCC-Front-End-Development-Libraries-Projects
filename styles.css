@@ -1,0 +1,25 @@
+body{
+  margin: 0;
+  background-color: Cyan;
+}
+#editor{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  height:25vh;
+  margin-top:10px;
+  width:auto;
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+  background-color: rgb(20,126,156);
+}
+#preview{
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  height:auto;
+  margin-top:10px;
+  width:auto;
+  
+  box-shadow: 5px 5px 10px 0 rgba(0, 0, 0, 0.5);
+  background-color: rgb(20,126,156);
+}
